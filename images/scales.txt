@@ -1,0 +1,15 @@
+In Spiralspy, Greaver was made 1.25 times bigger than it normally loads as.
+This is probably because Greaver uses same rig as Silkwing, which is much
+smaller. OOO probably just scales their Greavers to size.
+
+Greaver is 0.62 as tall as Knight, if Greaver's wings are all the way down
+	(And counting Greaver's horns)
+Greaver's L/H is 1.4
+Snipe is 0.42 as long as Greaver, from front to back wingtips
+
+
+If characters fit in a 32x32 box, then...
+Knight is 28 pixels tall. (4 pixel buffer...probably not enough space.)
+Greaver is approx. 17 pixels tall, and with a 24 pixel length.
+Snipe is 10 pixels long and just about that tall. (Might scale up.)
+
