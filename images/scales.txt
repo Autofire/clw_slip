@@ -1,4 +1,4 @@
-In Spiralspy, Greaver was made 1.25 times bigger than it normally loads as.
+In Spiralspy, Greaver was made 1.25 times smaller than it normally loads as.
 This is probably because Greaver uses same rig as Silkwing, which is much
 smaller. OOO probably just scales their Greavers to size.
 
